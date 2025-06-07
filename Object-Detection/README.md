@@ -1,6 +1,6 @@
                                                       
                                                # OBJECT DETECTION USING TENSORFLOW
-   # Object Detection using Tensorflow(By Ankan)
+   # Object Detection using Tensorflow
           
  
 Abstract
@@ -9,13 +9,13 @@ Key words: - Object Detection, Computer Vision, Tracking Systems, API algorithm.
 
 ![](Images/image001.png)
 
-Fig 1.Still Image Object Detection By Ankan:
+Fig 1.Still Image Object Detection :
 
 
 
 ![](Images/live%20webcam.png)
 
-Fig 2.Live Webcam Object Detection of Anik (Ankan's friend)
+Fig 2.Live Webcam Object Detection 
 
 
 
